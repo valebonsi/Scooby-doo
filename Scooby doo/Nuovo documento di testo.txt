@@ -1,0 +1,19 @@
+<html>
+<head>
+<title> Scooby-Doo! </title>
+</head>
+<body>
+<center><h1><font color="ffbd2c"> SCOOBY </font>
+<br>
+<font color="ccff00"> DOO </font> </h1> </center>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Shaggy </title>
+</head>
+<body bgcolor="654321">
+<body>
+<center><h1><font color="ecd798"> Shaggy </center></h1></font>
+<center><img src="scooby.gif" height="250" width="400" border="40"></center>
+<br><br>
+<i><h2>È il padrone e spesso amico di Scooby-Doo. Adora ingozzarsi di cibo in compagnia dell'amico.
+È un tipo molto pauroso e piuttosto impacciato, riuscendo sempre a trovare al momento e luogo sbagliati quando si tratta di cercare indizi.
+Riesce sempre a ficcarsi nei guai e molte volte ostacolando le investigazioni anche se la sua goffaggine si rivela a volte importante per la soluzione dei casi.
+</i></h2>
+<a href="scooby-doo.html"><font color="ecd798"> H O M E </a></font>
+
+
+</body>
+</html>

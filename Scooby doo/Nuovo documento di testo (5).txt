@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> Daphne </title>
+</head>
+<body bgcolor="FED38C">
+<body>
+<center><h1><font color="ecd798"> Dhapne </center></h1></font>
+<center><img src="daphne.gif" height="250" width="400" border="40"></center>
+<br><br>
+<i><h2>È una ragazza sempre alla moda dalla folta chioma rossa. Sempre con la testa un po' fra le nuvole riesce sempre, però, ad empatizzare con gli altri componenti del gruppo e a dare una mano quando serve. 
+Con il passare degli anni, il suo personaggio è stato riscritto numerose volte ed adattato ai tempi per dimostrare l'ingegno, coraggio ed arguzia.
+Si dimostra essere molto perspicace e irremovibile riuscendo a tenere a bada le personalità di Shaggy e Scooby. Intelligente e intuitiva, Daphne inizia a sviluppare, doti e qualità atletiche e tecniche che vengono alla luce nei momenti più complicati per riuscire a salvare le indagini.
+</i></h2>
+<a href="scooby-doo.html"><font color="ecd798"> H O M E </a></font>
+
+
+</body>
+</html>
